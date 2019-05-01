@@ -5,3 +5,7 @@ Bibliografía usada para generar el contenido:
 - Project Management for Research and Development: Guiding Innovation for Positive R&D Outcomes (Best Practices and Advances in Program Management Series), 2014 by Lory Mitchell Wingate
 - Managing Research, Development and Innovation: Managing the Unmanageable, 2010 by Ravi Jain, Harry C. Triandis, Cynthia W. Weick
 - Managing Technological Innovation. Competitive Advantage from Change, 3rd Edition, Frederick Betz -Wiley-Interscience (2011)
+
+
+Revisión de Escritura Científica en el libro:
+- How to Write and Publish a Scientific Paper, Barbara Gastel and Robert A. Day - GreenWood (2016)
